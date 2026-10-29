@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.55" stop-color="#14213d"/>
+      <stop offset="1" stop-color="#3b5bdb"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#3b5bdb"/>
+      <stop offset="1" stop-color="#8fb0ff"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.4" r="0.6">
+      <stop offset="0" stop-color="#5c7cfa" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#5c7cfa" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="900" height="240" rx="16" fill="url(#bg)"/>
+  <rect width="900" height="240" rx="16" fill="url(#glow)"/>
+
+  <!-- code brackets -->
+  <text x="40" y="120" font-family="Consolas, 'Courier New', monospace" font-size="90" fill="#ffffff" opacity="0.07">&lt;/&gt;</text>
+  <text x="690" y="120" font-family="Consolas, 'Courier New', monospace" font-size="90" fill="#ffffff" opacity="0.07">{ }</text>
+
+  <!-- title -->
+  <text x="450" y="98" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="50" font-weight="700" fill="#ffffff">Lapalu Liyanage</text>
+  <text x="450" y="136" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" fill="#a5c0ff" letter-spacing="3">SOFTWARE ENGINEER  &#183;  MUSICIAN</text>
+
+  <!-- animated equalizer -->
+  <g fill="url(#bar)" opacity="0.9">
+    <rect x="270" y="190" width="12" height="30" rx="3"><animate attributeName="height" values="12;40;18;34;12" dur="1.2s" repeatCount="indefinite"/><animate attributeName="y" values="208;180;202;186;208" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="292" y="190" width="12" height="30" rx="3"><animate attributeName="height" values="30;14;42;20;30" dur="1.0s" repeatCount="indefinite"/><animate attributeName="y" values="190;206;178;200;190" dur="1.0s" repeatCount="indefinite"/></rect>
+    <rect x="314" y="190" width="12" height="30" rx="3"><animate attributeName="height" values="18;38;12;32;18" dur="1.4s" repeatCount="indefinite"/><animate attributeName="y" values="202;182;208;188;202" dur="1.4s" repeatCount="indefinite"/></rect>
+    <rect x="336" y="190" width="12" height="30" rx="3"><animate attributeName="height" values="36;16;40;22;36" dur="0.9s" repeatCount="indefinite"/><animate attributeName="y" values="184;204;180;198;184" dur="0.9s" repeatCount="indefinite"/></rect>
+    <rect x="358" y="190" width="12" height="30" rx="3"><animate attributeName="height" values="14;34;20;40;14" dur="1.3s" repeatCount="indefinite"/><animate attributeName="y" values="206;186;200;180;206" dur="1.3s" repeatCount="indefinite"/></rect>
+    <rect x="380" y="190" width="12" height="30" rx="3"><animate attributeName="height" values="28;12;38;18;28" dur="1.1s" repeatCount="indefinite"/><animate attributeName="y" values="192;208;182;202;192" dur="1.1s" repeatCount="indefinite"/></rect>
+    <rect x="402" y="190" width="12" height="30" rx="3"><animate attributeName="height" values="20;40;14;36;20" dur="1.5s" repeatCount="indefinite"/><animate attributeName="y" values="200;180;206;184;200" dur="1.5s" repeatCount="indefinite"/></rect>
+    <rect x="424" y="190" width="12" height="30" rx="3"><animate attributeName="height" values="38;18;34;12;38" dur="1.0s" repeatCount="indefinite"/><animate attributeName="y" values="182;202;186;208;182" dur="1.0s" repeatCount="indefinite"/></rect>
+    <rect x="446" y="190" width="12" height="30" rx="3"><animate attributeName="height" values="16;36;22;42;16" dur="1.25s" repeatCount="indefinite"/><animate attributeName="y" values="204;184;198;178;204" dur="1.25s" repeatCount="indefinite"/></rect>
+    <rect x="468" y="190" width="12" height="30" rx="3"><animate attributeName="height" values="32;14;40;20;32" dur="0.95s" repeatCount="indefinite"/><animate attributeName="y" values="188;206;180;200;188" dur="0.95s" repeatCount="indefinite"/></rect>
+    <rect x="490" y="190" width="12" height="30" rx="3"><animate attributeName="height" values="12;38;18;34;12" dur="1.35s" repeatCount="indefinite"/><animate attributeName="y" values="208;182;202;186;208" dur="1.35s" repeatCount="indefinite"/></rect>
+    <rect x="512" y="190" width="12" height="30" rx="3"><animate attributeName="height" values="26;40;12;30;26" dur="1.15s" repeatCount="indefinite"/><animate attributeName="y" values="194;180;208;190;194" dur="1.15s" repeatCount="indefinite"/></rect>
+    <rect x="534" y="190" width="12" height="30" rx="3"><animate attributeName="height" values="40;16;32;14;40" dur="1.05s" repeatCount="indefinite"/><animate attributeName="y" values="180;204;188;206;180" dur="1.05s" repeatCount="indefinite"/></rect>
+    <rect x="556" y="190" width="12" height="30" rx="3"><animate attributeName="height" values="14;30;42;18;14" dur="1.45s" repeatCount="indefinite"/><animate attributeName="y" values="206;190;178;202;206" dur="1.45s" repeatCount="indefinite"/></rect>
+    <rect x="578" y="190" width="12" height="30" rx="3"><animate attributeName="height" values="34;12;38;22;34" dur="1.0s" repeatCount="indefinite"/><animate attributeName="y" values="186;208;182;198;186" dur="1.0s" repeatCount="indefinite"/></rect>
+    <rect x="600" y="190" width="12" height="30" rx="3"><animate attributeName="height" values="18;40;14;34;18" dur="1.3s" repeatCount="indefinite"/><animate attributeName="y" values="202;180;206;186;202" dur="1.3s" repeatCount="indefinite"/></rect>
+    <rect x="622" y="190" width="12" height="30" rx="3"><animate attributeName="height" values="30;16;36;12;30" dur="1.2s" repeatCount="indefinite"/><animate attributeName="y" values="190;204;184;208;190" dur="1.2s" repeatCount="indefinite"/></rect>
+  </g>
+</svg>
