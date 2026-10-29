@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=6EA8FE&center=true&vCenter=true&width=620&lines=Building+intelligent+systems+by+day;Performing+on+stage+by+night+%F0%9F%8E%B6;Deep+learning+for+Sinhala+chord+recognition;3rd+Year+Software+Engineering+%40+RUSL" alt="tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=6EA8FE&center=true&vCenter=true&width=620&lines=Building+intelligent+systems+and+full-stack+apps;Deep+learning+for+Sinhala+chord+recognition;3rd+Year+Software+Engineering+%40+RUSL" alt="tagline" />
 </p>
 
 <p align="center">
@@ -17,32 +17,24 @@
 
 ## 👋 About me
 
-I'm a software engineering student from Sri Lanka who likes building things that sit between **code and music**: AI-powered tools, full-stack web apps and research projects, plus live performances on stage.
+I'm a software engineering student from Sri Lanka who likes building AI-powered tools, full-stack web apps and research projects.
 
 | | |
 |---|---|
 | 🎓 **Education** | 3rd-year Software Engineering / BSc IT, **Rajarata University of Sri Lanka** (Faculty of Applied Sciences) |
 | 🎤 **Leadership** | President of the **Fastunes Music Society**, RUSL |
 | 🔬 **Research** | Deep-learning chord recognition and lead-sheet generation for Sinhala popular songs |
+| 🎸 **Music** | Rhythm guitar, performances with Fastunes, and Sinhala chord songbooks |
 | 💻 **Focus** | Full-stack web development, AI/ML, and developer tools |
-| 🎸 **Music** | Rhythm guitar, live performer, and writer of Sinhala chord songbooks |
 | 📍 **Location** | Kuliyapitiya, Sri Lanka |
 
 ---
 
 ## 🛠️ Tech stack
 
-**Languages**<br>
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,html,css&perline=7" alt="languages" />
-
-**Frontend and backend**<br>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,flask,spring&perline=6" alt="frameworks" />
-
-**Databases and cloud**<br>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,vercel&perline=4" alt="data and cloud" />
-
-**Tools**<br>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,androidstudio&perline=6" alt="tools" />
+<p align="center">
+  <img src="./tech-stack.svg" alt="Tech stack: Python, JavaScript, TypeScript, Java, C++, HTML5, React, Vite, Tailwind, Node.js, Flask, Spring Boot, Streamlit, MySQL, PostgreSQL, Firebase, Vercel, Git, GitHub, Docker, Figma, Android Studio" width="100%" />
+</p>
 
 ---
 
@@ -103,14 +95,25 @@ I'm a software engineering student from Sri Lanka who likes building things that
 
 ---
 
-## 🎶 Fastunes Music Society
+## 🎤 Leadership
 
-As **President of Fastunes** (founded in 2016), I lead RUSL's music society and its performances and events.
+As **President of the Fastunes Music Society** at RUSL, I lead the committee and organize society events and recruitment.
 
-- 🎤 Pioneered the **Open Mic** concept at Rajarata University (Vol 1.0 – 3.0)
+- 🗓️ Ran the **[Fastunes Online Auditions 2026](https://fastunes-audition.vercel.app/)** recruitment drive for the new batch
+- 🌐 Building the society's multi-page website
+
+---
+
+## 🎶 Music
+
+Music is the other side of my work, and it's why I'm building chord-recognition tools.
+
+- 🎸 Play rhythm guitar (open chords and barre chords)
+- 🎤 Perform with **Fastunes**, the RUSL music society founded in 2016
+- 🎙️ Pioneered the **Open Mic** concept at Rajarata University (Vol 1.0 – 3.0)
 - 📺 Performed on national television on Swarnavahini's **PM Show**
 - 🎪 Performed at the **FASEXPLORE** exhibition closing ceremony
-- 🗓️ Ran the **[Fastunes Online Auditions 2026](https://fastunes-audition.vercel.app/)** recruitment drive for the new batch
+- 📒 Create and organize Sinhala chord songbooks, which led to my **Chordarium** research
 
 ---
 
@@ -139,12 +142,10 @@ As **President of Fastunes** (founded in 2016), I lead RUSL's music society and 
 
 ## 📫 Let's connect
 
-I'm always happy to talk about software, research or music.
+I'm always happy to talk about software, AI and research.
 
 <p align="center">
   <a href="https://lapalu.me"><img src="https://img.shields.io/badge/Visit%20my%20portfolio-3b5bdb?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://linkedin.com/in/lapalu-liyanage"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:lapaluliyanage@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
-<p align="center"><i>"Building intelligent systems by day, performing on stage by night."</i></p>
