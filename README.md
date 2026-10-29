@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://lapalu.me"><img src="https://img.shields.io/badge/PORTFOLIO-lapalu.me-3b5bdb?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/lapalu-liyanage"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:lapaluliyanage@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-2ea043?style=for-the-badge" />
+  <a href="https://lapalu.me"><img src="./assets/buttons/portfolio.svg" height="56" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/lapalu-liyanage"><img src="./assets/buttons/linkedin.svg" height="56" alt="LinkedIn" /></a>
+  <a href="https://github.com/LapaluLiyanage"><img src="./assets/buttons/github.svg" height="56" alt="GitHub" /></a>
+  <a href="mailto:lapaluliyanage@gmail.com"><img src="./assets/buttons/email.svg" height="56" alt="Email me" /></a>
 </p>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
@@ -219,7 +219,8 @@ Music is the other side of my work, and it's why I'm building chord-recognition 
 I'm always happy to talk about software, AI and research.
 
 <p align="center">
-  <a href="https://lapalu.me"><img src="https://img.shields.io/badge/Visit%20my%20portfolio-3b5bdb?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/lapalu-liyanage"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:lapaluliyanage@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://lapalu.me"><img src="./assets/buttons/portfolio.svg" height="56" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/lapalu-liyanage"><img src="./assets/buttons/linkedin.svg" height="56" alt="LinkedIn" /></a>
+  <a href="https://github.com/LapaluLiyanage"><img src="./assets/buttons/github.svg" height="56" alt="GitHub" /></a>
+  <a href="mailto:lapaluliyanage@gmail.com"><img src="./assets/buttons/email.svg" height="56" alt="Email me" /></a>
 </p>
